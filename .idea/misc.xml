@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/drawable/bg_border.xml" value="0.1" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/drawable/bg_shows.xml" value="0.1" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/drawable/ic_close.xml" value="0.1605" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/layout/activity_main.xml" value="0.1984375" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/layout/ad_item.xml" value="0.1" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/layout/each_row.xml" value="0.1" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/layout/error_state.xml" value="0.1" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/layout/native_ad_layout.xml" value="0.22" />
+        <entry key="..\:/Users/tride/AndroidStudioProjects/Assignment/app/src/main/res/layout/tv_shows_item_container.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
